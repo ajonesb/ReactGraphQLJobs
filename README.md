@@ -3,10 +3,9 @@ Docs: https://graphql.jobs/docs/api/
 
 Basic testing setup is configured with Cypress: https://www.cypress.io/
 to test UI elements: 
-## npm  run cypress:open
+## `npm run cypress:open`
 
 - View testing file in Cypress -> Integration -> graphQLHomeCyressTest.ts
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -77,3 +76,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+- VIEW DEMO APP : http://jonesfrontendwebdev.com/ReactJsGraphQlJobsApp/index.html
